@@ -1,5 +1,5 @@
 # What is Quick Exporter?
-Quick Exporter is a **free** Blender addon by [Wilder](https://wilder.games), which allows users to configure and manage exportable packages from objects within a Blender file.
+Quick Exporter is a **free** Blender addon, which allows users to configure and manage exportable packages from objects within a Blender file.
 
 These **Export Packages** can be exported manually and/or automatically, as a single or individual **.fbx** files.
 
@@ -28,34 +28,8 @@ In game engines such as **Unity** or **Unreal** this allows us to easily avoid o
 <br>
 
 # Free, huh?
+
 Heck yeah, **100% free**.
-
-That said, any donations are highly appreciated.
-
-Donations and purchases help us continue to support our tools for the game development community.
-
-<br>
-
-# Source Code  
-As a Blender addon, the Quick Exporter source code is bundled with every version. 
-
-Officially, Quick Exporter is available for download from [github](https://github.com/wildergames/blender-quick-exporter) and [itch.io](https://wilder-games.itch.io/blender-quick-exporter)
-
-For more information, visit the Wilder website: [wilder.games](https://wilder.games)
-
-<br>
-
-## License
-We haven't yet chosen a license for Quick Exporter.
-
-<br>
-
-## Open Source Considerations
-We're new to open-source, so please, bear with us!
-
-We'd love to allow the community to be involved with the continued development of Quick Exporter and our other tools in the future, but we couldn't decide the best way to do so.
-
-If you have any suggestions on which license we should be using, please let us know.
 
 <br>
 
@@ -118,14 +92,9 @@ This will export all packages when the Blend File is saved.
 
 <br>
 
-# Planned Features
-We're planning on adding more features to Quick Exporter in the future, including:
+# Source
 
-**Export Settings data objects**  
-Adding the ability to store and reference various embedded Export Settings objects (just like Materials, or Textures), instead of having one unique set of settings per Export Package. This would allow us to also store defaults for various export platforms and variations. For example: FBX Standard, Unity, Unity (Animated), Unreal, Unreal (Animated), etc.
-
-**Support for more export file types**  
-Adding support for exporting more export file types, along with .fbx
+This fork is based on the repo by [Wilder](https://wilder.games)
 
 ---
 
